@@ -1,8 +1,8 @@
 # Covid-Data-Analysis
 
 # This project was part of my boot camp I took in order to:
-### The Purpose of this task was to use time series and geo data in order to apply mashine learning concepts (supervised vs unsupervised) 
-### and how to deal with geo data in python
+#### The Purpose of this task was to use time series and geo data in order to apply mashine learning concepts (supervised #### vs unsupervised) 
+#### and how to deal with geo data in python
 
 
 # COVID-Data 
